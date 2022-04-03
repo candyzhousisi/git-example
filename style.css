@@ -3,5 +3,9 @@ body{
     color: antiquewhite;
     margin:10px;
     padding: 100px;
+<<<<<<< HEAD
     font-size: larger;
+=======
+    font-weight: 100;
+>>>>>>> feature-a
 }
